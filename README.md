@@ -1,7 +1,9 @@
 # Codility Lesson's Solutions
-Started to solve Codility lessons for fun
+Started to solve Codility lessons for 
 
-## Lesson 1 - Time Complexity
+## Programming Language - Ruby
+
+### Lesson 1 - Time Complexity
 Correctness	100% 
 
 Performance 100%

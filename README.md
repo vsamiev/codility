@@ -1,5 +1,5 @@
 # Codility Lesson's Solutions
-Started to solve Codility lessons for 
+Started to solve Codility lessons just for fun
 
 ## Programming Language - Ruby
 
